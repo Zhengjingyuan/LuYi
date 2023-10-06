@@ -1,0 +1,6 @@
+
+qkotlin:S117"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÊŠäÏ8„¿¢Ò®1
+@kotlin:S6310"Avoid hardcoded dispatchers.(–ÄÎ¶üÿÿÿÿ8Í‹«Ò®1
+@kotlin:S6310-"Avoid hardcoded dispatchers.(–ÄÎ¶üÿÿÿÿ8íš±Ò®1
+dkotlin:S6313"EClasses extending "ViewModel" should not expose suspending functions.(Ÿºô8‰´Ò®1
+dkotlin:S6313+"EClasses extending "ViewModel" should not expose suspending functions.(´ÊŒ 8‰´Ò®1

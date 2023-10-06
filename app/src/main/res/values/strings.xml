@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LuYi</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_nav_host_app">NavHostApp</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_guide_screen">GuideScreen</string>
+    <string name="title_activity_memorum_item">MemorumItem</string>
+    <string name="title_activity_memorandum_click_item">MemorandumClickItem</string>
+    <string name="title_activity_new_memorandum_screen">NewMemorandumScreen</string>
+    <string name="title_activity_diary_screen">DiaryScreen</string>
+    <string name="title_activity_diary_item">DiaryItem</string>
+    <string name="title_activity_address_screen">AddressScreen</string>
+    <string name="title_activity_address_item">AddressItem</string>
+</resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LuYi"
+        tools:targetApi="31">
+        <activity
+            android:name=".basic.ui.component.AddressItem"
+            android:exported="false"
+            android:label="@string/title_activity_address_item"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.screen.address.AddressScreen"
+            android:exported="false"
+            android:label="@string/title_activity_address_screen"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.component.DiaryItem"
+            android:exported="false"
+            android:label="@string/title_activity_diary_item"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.screen.memorandum.NewMemorandumScreen"
+            android:exported="false"
+            android:label="@string/title_activity_new_memorandum_screen"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.component.MemorandumClickItem"
+            android:exported="false"
+            android:label="@string/title_activity_memorandum_click_item"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.component.MemorumItem"
+            android:exported="false"
+            android:label="@string/title_activity_memorum_item"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.screen.GuideScreen"
+            android:exported="false"
+            android:label="@string/title_activity_guide_screen"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.screen.HomeScreen"
+            android:exported="false"
+            android:label="@string/title_activity_home_screen"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".navigation.NavHostApp"
+            android:exported="false"
+            android:label="@string/title_activity_nav_host_app"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.screen.SplashScreen"
+            android:exported="false"
+            android:label="@string/title_activity_splash_screen"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.screen.RegisterScreen"
+            android:exported="false"
+            android:label="@string/title_activity_register_screen"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".basic.ui.screen.LoginScreen"
+            android:exported="false"
+            android:label="@string/title_activity_login_screen"
+            android:theme="@style/Theme.LuYi" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.LuYi">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

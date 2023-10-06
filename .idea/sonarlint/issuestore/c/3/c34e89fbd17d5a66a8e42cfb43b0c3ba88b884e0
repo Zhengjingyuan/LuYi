@@ -1,0 +1,26 @@
+
+_kotlin:S1172:"@Remove this unused function parameter "LoginOnNavigationToHome".(í‡øœ8ˆ©¯´®1
+lkotlin:S117:"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(í‡øœ8Š©¯´®1
+>kotlin:S1128"Remove this unused import.(µ¢«Ïúÿÿÿÿ8­§®´®1
+9kotlin:S1128"Remove this unused import.(›«Ì÷8­§®´®1
+>kotlin:S1128"Remove this unused import.(û¢ËÓùÿÿÿÿ8­§®´®1
+>kotlin:S1128	"Remove this unused import.(£žØØùÿÿÿÿ8­§®´®1
+9kotlin:S1128"Remove this unused import.(ÔÍÀï8­§®´®1
+>kotlin:S1128"Remove this unused import.(ô¿Þ†øÿÿÿÿ8­§®´®1
+8kotlin:S1128"Remove this unused import.(žËî>8­§®´®1
+8kotlin:S1128"Remove this unused import.(è¹ÒS8­§®´®1
+9kotlin:S1128"Remove this unused import.(É‡Þ™8­§®´®1
+9kotlin:S1128"Remove this unused import.(Äåì¾8®§®´®1
+>kotlin:S1128"Remove this unused import.(½…Ò¦ýÿÿÿÿ8®§®´®1
+9kotlin:S1128"Remove this unused import.(ê ó˜8®§®´®1
+9kotlin:S1128"Remove this unused import.(Ž™éç8®§®´®1
+>kotlin:S1128"Remove this unused import.(‘ôÏ þÿÿÿÿ8®§®´®1
+9kotlin:S1128"Remove this unused import.(©ÎÖÅ8®§®´®1
+>kotlin:S1128"Remove this unused import.(ÏõÁÞþÿÿÿÿ8®§®´®1
+9kotlin:S1128"Remove this unused import.(ÍýÝô8®§®´®1
+>kotlin:S1128"Remove this unused import.(Â­¢Âùÿÿÿÿ8®§®´®1
+9kotlin:S1128"Remove this unused import.(¹Ëš8®§®´®1
+>kotlin:S1128 "Remove this unused import.(¸çÁßûÿÿÿÿ8®§®´®1
+>kotlin:S1128!"Remove this unused import.(çŠÀ§úÿÿÿÿ8®§®´®1
+>kotlin:S1128$"Remove this unused import.(£ñ¹¸ûÿÿÿÿ8®§®´®1
+ykotlin:S1186:"ZAdd a nested comment explaining why this function is empty or complete the implementation.(í‡øœ8¯§®´®1
